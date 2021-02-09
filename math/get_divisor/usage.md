@@ -1,0 +1,1 @@
+AC Code http://judge.u-aizu.ac.jp/onlinejudge/review.jsp?rid=5209988#1
